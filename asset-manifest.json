@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/master-of-hof/static/css/main.5f73f583.chunk.css",
+    "main.js": "/master-of-hof/static/js/main.2298385a.chunk.js",
+    "main.js.map": "/master-of-hof/static/js/main.2298385a.chunk.js.map",
+    "runtime-main.js": "/master-of-hof/static/js/runtime-main.b8010853.js",
+    "runtime-main.js.map": "/master-of-hof/static/js/runtime-main.b8010853.js.map",
+    "static/js/2.071c8e23.chunk.js": "/master-of-hof/static/js/2.071c8e23.chunk.js",
+    "static/js/2.071c8e23.chunk.js.map": "/master-of-hof/static/js/2.071c8e23.chunk.js.map",
+    "index.html": "/master-of-hof/index.html",
+    "static/css/main.5f73f583.chunk.css.map": "/master-of-hof/static/css/main.5f73f583.chunk.css.map",
+    "static/js/2.071c8e23.chunk.js.LICENSE.txt": "/master-of-hof/static/js/2.071c8e23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8010853.js",
+    "static/js/2.071c8e23.chunk.js",
+    "static/css/main.5f73f583.chunk.css",
+    "static/js/main.2298385a.chunk.js"
+  ]
+}
